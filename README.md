@@ -5,7 +5,9 @@ This README provides guidance on setting up and using React, Node.js, and MongoD
 
 Prerequisites Before setting up and running the application, ensure you have the following prerequisites installed:
 
+```
 Node.js
+```
 MongoDB
 npm 
 Installation To install and set up the project, follow these steps:
