@@ -26,7 +26,8 @@ npm install
 Start the backend server:
 
 ```
-npm start```
+npm start
+```
 
 Frontend (React)
 
