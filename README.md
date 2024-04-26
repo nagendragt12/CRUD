@@ -8,26 +8,36 @@ Prerequisites Before setting up and running the application, ensure you have the
 ```
 Node.js
 ```
+```
 MongoDB
-npm 
+```
+```
+npm
+```
 Installation To install and set up the project, follow these steps:
 
 Backend (Node.js)
 
 Install dependencies:
 
+```
 npm install
+```
 Start the backend server:
 
-npm start
+```
+npm start```
+
 Frontend (React)
 
 Install dependencies:
-
+```
 npm install
+```
 Start the frontend development server:
-
+```
 npm start
+```
 Usage To use the application, follow these steps:
 
 Access the application via the provided URL or localhost port.
