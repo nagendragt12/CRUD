@@ -37,6 +37,7 @@ npm install
 Start the frontend development server:
 ```
 npm start
+```
 Usage To use the application, follow these steps:
 
 Access the application via the provided URL or localhost port.
